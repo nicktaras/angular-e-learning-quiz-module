@@ -1,0 +1,101 @@
+{
+    "knowledgeCheck" : {
+        "quiz"       : {
+            "course"        : "Quiz v.01",
+            "title"         : "Question ",
+            "feedbackTitle" : "Feedback: ",
+            "passPercent"   : 80
+        },
+        "details"       : {
+            "welcome"       : "Welcome,",
+            "instruction"   : "please enter your details below:"
+        },
+        "intro"      : {
+            "title"         : "Supply Chain Management",
+            "motivation"    : "Let's get started!",
+            "subTitle"      : "Knowledge Check Exam",
+            "description"   : "In this knowledge exercise you will be asked 10 multiple choice questions about the content you have covered in today's session. When ready click 'Start' to begin."
+        },
+        "results"         : {
+            "title"       : "Your Results are shown below:",
+            "feedbackStr" : "Well done [NAME], you have completed the test.",
+            "passed"      : "Well done, you have passed the exam.",
+            "failed"      : "Unfortunately, you have not passed this time. Please try again."
+        },
+        "questions" : {
+            "1" : {
+                "type"     : "single answer",
+                "num"      : 1,
+                "pts"      : 1,
+                "text" : "Who was the top goalscorer in the 2014 FIFA World Cup?",
+                "options"  : {
+                    "a" : "James Rodriguez (Colombia)",
+                    "b" : "Thomas Muller (Germany)",
+                    "c" : "Lionel Messi (Argentina)"
+                },
+                "correct"   : "Well done, that's correct!",
+                "incorrect" : "Sorry, that's incorrect",
+                "feedback"  : "James Rodriguez has shown ambidexterity in his dribbling and style of play. His goal scoring abilities were a highlight of the 2014 FIFA World Cup, where he managed to claim the Golden Boot despite Colombia's elimination in the quarter finals.",
+                "answer"    : 0
+            },
+            "2" : {
+                "type"     : "single answer",
+                "pts"      : 1,
+                "text" : "In what year did the band Queen form?",
+                "options"  : {
+                    "a" : "1965",
+                    "b" : "1967",
+                    "c" : "1970",
+                    "d" : "1972"
+                },
+                "correct"   : "Well done, that's correct!",
+                "incorrect" : "Sorry, that's incorrect",
+                "feedback"  : "It was 1970. Queen have been recognised as having made significant contributions to such genres as hard rock, and heavy metal, amongst others. Hence, the band have been cited as an influence by many other musicians. Moreover, like their music, the bands and artists that have claimed to be influenced by Queen are diverse and span different generations, countries, and genres.",
+                "answer"    : 2
+            },
+            "3" : {
+                "type"     : "single answer",
+                "pts"      : 1,
+                "text"     : "Who is statistically the best golfer of all time?",
+                "options"  : {
+                    "a" : "Tiger Woods",
+                    "b" : "Harry Vardon",
+                    "c" : "Jack Nicklaus",
+                    "d" : "Bobby Jones"
+                },
+                "correct"   : "Well done, that's correct!",
+                "incorrect" : "Sorry, that's incorrect",
+                "feedback"  : "That was a tough question, the golfers listed are all within the top 5 of all time.",
+                "answer"    : 3
+            },
+            "4" : {
+                "type"     : "single answer",
+                "pts"      : 1,
+                "text" : "Where did the word 'simple' come from?",
+                "options"  : {
+                    "a" : "Compare the Meerkat",
+                    "b" : "Latin",
+                    "c" : "Espanol",
+                    "d" : "Ancient Greek"
+                },
+                "correct"   : "Well done, that's correct!",
+                "incorrect" : "Sorry, that's incorrect",
+                "feedback"  : "Middle English: from Old French, from Latin simplus. The noun sense (mid 16th century) originally referred to a medicine made from one constituent, especially from one plant.",
+                "answer"    : 1
+            },
+            "5" : {
+                "type"     : "single answer",
+                "pts"      : 1,
+                "text" : "True or False - It takes more calories to eat a piece of celery than the celery has in it.",
+                "options"  : {
+                    "a" : "True",
+                    "b" : "False"
+                },
+                "correct"   : "Well done, that's correct!",
+                "incorrect" : "Sorry, that's incorrect",
+                "feedback"  : "Here's another insteresting fact: Just like fingerprints, everyone's tongue is different.",
+                "answer"    : 0
+            }
+        }
+    }
+}
